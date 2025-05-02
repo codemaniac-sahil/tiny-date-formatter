@@ -2,8 +2,8 @@
 
 > A lightweight, zero-dependency date formatting utility for JavaScript and TypeScript.
 
-![npm](https://img.shields.io/npm/v/tiny-date-formatter)
-![license](https://img.shields.io/github/license/your-username/tiny-date-formatter)
+![npm](https://img.shields.io/npm/v/@codemaniac-sahil/tiny-date-formatter)
+![license](https://img.shields.io/github/license/codemaniac-sahil/tiny-date-formatter)
 ![tests](https://img.shields.io/badge/tests-passing-brightgreen)
 
 ## ✨ Features
