@@ -13,7 +13,8 @@
     "date",
     "format",
     "formatter",
-    "utility"
+    "utility",
+    "locale formatting"
   ],
   "repository": {
     "type": "git",
